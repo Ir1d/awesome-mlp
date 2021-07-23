@@ -1,5 +1,6 @@
 # awesome-mlp
 
+- [CycleMLP: A MLP-like Architecture for Dense Prediction](https://arxiv.org/abs/2107.10224)
 - [AS-MLP: An Axial Shifted MLP Architecture for Vision](https://arxiv.org/abs/2107.08391)
 - [Global Filter Networks for Image Classification](https://arxiv.org/abs/2107.00645)
 - [Rethinking Token-Mixing MLP for MLP-based Vision Backbone](https://arxiv.org/abs/2106.14882)
